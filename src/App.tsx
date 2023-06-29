@@ -1,8 +1,8 @@
-import React from 'react'
-import { ethers } from 'ethers'
-import TokenContract from './contract/token.json'
-import StakingContract from './contract/staking.json'
-import Logo from './assets/iamges/logo.jpg'
+import React from 'react';
+import { ethers } from 'ethers';
+import TokenContract from './contract/token.json';
+import StakingContract from './contract/staking.json';
+import Logo from './assets/iamges/logo.jpg';
 
 const tokenAddress: string = '0x85469cB22c5e8A063106C987c36C7587810E4bF1' //main token
 // const tokenAddress: string = '0x85469cB22c5e8A063106C987c36C7587810E4bF1' // main token
